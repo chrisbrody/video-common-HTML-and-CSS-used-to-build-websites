@@ -1,0 +1,62 @@
+COMMON 1.1 - Intro to video for common HTML and CSS used to build websites
+COMMON 1.2 - Quick HTML Refresher
+COMMON 1.3 - HTML elements and attributes
+COMMON 1.4 - Quick CSS Refresher
+COMMON 1.5 - CSS properties and basic selectors
+COMMON 1.6 - Outro to video for common HTML and CSS used to build websites
+
+
+
+COMMON 1.1 - Intro to video for common HTML and CSS used to build websites
+Chris Brody from Codify Academy here. In this video we're gonna checkout some most common HTML and CSS we use to build websites.
+If downloaded Chrome or Atom, click the links below and download those to catch up.
+
+
+
+COMMON 1.2 - Quick HTML Refresher
+alright so open the desktop folder in atom and then make a copy of the template folder we created and rename it to codefun1,
+Lets do a quick overview of HTML.
+1) HTML stands for Hyper Text Markup Language.
+2) This just means HTML uses tags to identify content and create structure for a website
+3) You can add attributes to a start tag to change how it behaves.
+4) All HTML files end in .html for now we will only see a index.html file.
+
+Ok time to create some HTML.
+
+
+COMMON 1.3 - HTML elements and attributes
+h1-h6, p, ul or ol & li, a, img, div & span
+
+href & target, src & alt, class
+
+
+
+
+COMMON 1.4 - Quick CSS Refresher
+Ok so thats it for HTML for now, there are many more tags and attributes we'll see in the future, but now lets move to CSS so we can change how the website looks.
+
+To review
+1) CSS stands for Cascading Style Sheets
+2) Cascade refers to how CSS applies one style on top of another
+3) We create selectors in CSS to choose HTML elements we want to style
+4) Once we have a selector created we can add property and value pairs to the selector to change how the elements chosen look.
+
+
+
+COMMON 1.5 - CSS properties and basic selectors
+background-color
+border
+color
+display
+height
+float
+font-size
+margin
+padding
+text-decoration
+text-transform
+width
+
+tag, class, descendent selectors
+
+COMMON 1.6 - Outro to video for common HTML and CSS used to build websites
